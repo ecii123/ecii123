@@ -1,5 +1,5 @@
-<h1 align="center">Yoo Ganggs 👋, I'm Reinaldy Hutapea</h1>
-<h3 align="center">An Undergraduate Information Systems at Del Institute of Technology</h3>
+<h1 align="center">Yoo Ganggs 👋, I'm Yessi Sitanggang</h1>
+<h3 align="center">An Undergraduate Informatic at Del Institute of Technology</h3>
 
 <img align="right" alt="coding" width="400" src ="[[https://www.google.co.id/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A564%2F1*Erk4NawQOHkf4wSN7JmB_A.jpeg&tbnid=N2dfvXpfLAw_iM&vet=12ahUKEwiRq5nblL2FAxUjqmMGHbuTC7gQMyg8egUIARDlAQ..i&imgrefurl=https%3A%2F%2Fbootcamp.uxdesign.cc%2Fhow-to-design-an-attractive-github-profile-readme-3618d6c53783&docid=H_FhIbdHHPjUbM&w=564&h=564&q=github%20animated&ved=2ahUKEwiRq5nblL2FAxUjqmMGHbuTC7gQMyg8egUIARDlAQ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDA3yY1oIEEJPv8z44G-DCFPXSXdS01Wl0A&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Gdohwf4JTEdovm7p3A_mBW51Yy9FnFKVXg&usqp=CAU)">
 
